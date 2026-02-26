@@ -1,0 +1,2 @@
+# mybotforhost
+for hosting
